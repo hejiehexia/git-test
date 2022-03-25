@@ -6,5 +6,6 @@ public class Gittest {
         System.out.println("你好git4！");
         System.out.println("push,git");
         System.out.println("pull,git");
+        System.out.println();
     }
 }
